@@ -40,12 +40,12 @@ The application is built with **Streamlit** as the user interface and utilizes A
 ---
 
 ## **📂 Project Structure**
-**├── app.py                    # Main Streamlit application**
-**├── uploads/                  # Stores user-uploaded files**
-**├── downloads/                # Stores processed files**
-**├── transcripts/              # Stores transcribed text files**
-**├── models/                   # Stores AI models (YOLO & Colorization)**
-**└── README.md                 # Project documentation**
+- **├── app.py                    # Main Streamlit application**
+- **├── uploads/                  # Stores user-uploaded files**
+- **├── downloads/                # Stores processed files**
+- **├── transcripts/              # Stores transcribed text files**
+- **├── models/                   # Stores AI models (YOLO & Colorization)**
+- **└── README.md                 # Project documentation**
 
 
 ---
